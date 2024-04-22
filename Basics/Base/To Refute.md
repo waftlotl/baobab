@@ -1,0 +1,1 @@
+One must [[To Apply|apply]] or [[To Create|create]], or both simultaneously to begin refuting based on axioms devised or pre-existing, to derive inventive and useful conclusions.

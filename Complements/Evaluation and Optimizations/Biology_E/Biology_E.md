@@ -1,0 +1,11 @@
+# [[Neuronal Resolution]]:
+The [[Mode]] must be tested respectively as and when an activity that requires it, is concerned and may be done by applying a [[Combination]] of [[Mode]]s which complement the concerned [[Mode]] i.e. are (dynamically) predefined before evaluation and do not impede on the concerned mode. This may be done by forming [[Tunnels]] for the complements that may be used in the future i.e. archived and letting the primary mode be free for entropic evaluation.
+[[Creation]] , A [[Skeleton]] (usually another mode for which a tunnel exists) of what the primary mode needs to pass,  Establishing a certain confidence interval by gradually increasing the [[Neural Spread]] by starting from a [[Skeleton]] of an idea and adding different modes to it.
+
+# Tempo/Resonance:
+The Speed at which these thoughts occur may directly correlate to the kind of hormones flooding the system. Its evaluation requires the existence of a certain baseline and may be estimated from the associative memories that may flood the mind upon revisiting anything under [[Creation|creations]]. Its [[optimization]] may require some kind of an analogue which starts from base down [[Biological hierarchy]] and permits the use of  [[Neural Cell#Inhibition|Cell Inhibition]] and [[Neural Cell#Intervention|Cell Intervention]]. (or a [MacLean](https://en.wikipedia.org/wiki/Paul_D._MacLean) [[Skeleton]]) that catalyse the process further.
+# Fatigue:
+Under the same premise one may understand [[efficiency]] as a[[Neural Cell#Inhibition| Cell Inhibition]] for certain [[Domains]] which , if its argument is followed, [[optimization]] requires a shift to a distant/different set of [[Base]]s that may focus on a different kind of [[Engagement]].  Fatigue may be reduced to a certain extent by [[Neural Cell#Intervention|Cell Intervention]]. which may stimulate an exhausted subject (here, a person) towards longer threshold periods.  
+# Saturation:
+The theory under [[Neural Cell#Saturation|Neural Saturation]]. Translation into an [[Archive|archivable]] form existing under a different/same [[Mode]] and freeing resources (more in the former case) does not yield any more entropy or information, the [[node|nodes]] can be considered to be saturated. The same procedure for [[evaluation]] may also be applied for [[optimization]].
+

@@ -1,1 +1,0 @@
-Such is knowledge, fundamental towards deriving other sources, is necessary for correlation of different subjects, lists axioms, [[specific]] or non-[[specific]], related to that subject, stores Theories, and aids [[To Absorb]]

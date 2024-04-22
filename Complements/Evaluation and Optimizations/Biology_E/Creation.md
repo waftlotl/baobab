@@ -1,0 +1,1 @@
+The Creations must have passed the test of [[Entropic hierarchy]]. This could be one of ones' own creations or the ones matching/surpassing either the Neural Spread or the Entropic hierarchy of the ones utilized in the past i.e. from the [[Archive]]
