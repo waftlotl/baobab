@@ -1,0 +1,1 @@
+An Archive, an [[Analogy]] to connect the intangibles with stories, to specify and remember, to expand and create more ideas and emotions. i.e. balance the weights of the [[node]]s to be biased towards all.

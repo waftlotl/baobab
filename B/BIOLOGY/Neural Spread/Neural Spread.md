@@ -1,0 +1,9 @@
+It is the [[Reinforcement]] of the paths around which a [[node]] exists, and the amount of spread that occurs away from the [[node]] and touches on biologically different domains or ideas. While it may not be obvious whether some subjects share the same kinds of biological domain, it may be helpful to think of the combinations of parts of the brain that is utilized. 
+While ideas aren't present in an archaic fashion, as stated above, it is, in a sense, similar to it, since the location of different "[[node]]s" under different "[[Domains]]"(domains being the names given to combinations of certain functions of the brain and location, revealing the proximity of one domain to another) hint at the idea of there being a greater prospect of utilizing an idea to span a number of [[Domains]]. It also hints at there being distinct differences in the existence of these [[Domains]]
+
+points to consider:
+	Thinking like so and not pushing back towards a single domain (after successful [[To Archive]] and [[To Absorb]]) provides much more ease in delving into different ideas. At the same time, however, slightly higher consideration of a perceived fundamental may help [[To Apply]], [[To Theorize]] and [[To Create]].
+	Upon selecting a theory under the ideas set by [[Selection]] it many be more useful to bias oneself towards the forward proceeding [[Entropic hierarchy]] rather than backwards.  This holds true in case of [[To Apply]] but reverses direction should [[To Theorize]] come up. 
+	Though theories and the application deal with the future and the past respectively, It may not make sense to go these ways unless required under any of the other axioms or the current archives possess a biased interpretation or an unexplored branch that needs exploring in the case of theory and application respectively)
+	 
+	 

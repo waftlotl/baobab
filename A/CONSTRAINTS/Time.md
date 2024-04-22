@@ -1,0 +1,1 @@
+All else is a derivative of time itself. The Future and the Past both deal with states of entropy that is currently non-existing. Theory must work in both directions in terms of its effects, taken with respect to time moving forward, unless exceptions are raised.

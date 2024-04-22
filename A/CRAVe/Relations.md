@@ -1,0 +1,1 @@
+building relations between different objects involve an analogue input between -1 and 1 to establish the kind of correlation between the objects. Since, since it may go unmentioned, The Relations may be combined to account for dualities or enigmatic complexities.

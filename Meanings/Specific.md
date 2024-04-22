@@ -1,0 +1,1 @@
+As and when specific, the knowledge applied must become reasonably intuitive and must be archived to make its knowledge fruitful (not necessarily usable)

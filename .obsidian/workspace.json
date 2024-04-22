@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "a4f246ee986183d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "996ca5a8101c3a83",
+        "type": "tabs",
+        "dimension": 50.50505050505051,
+        "children": [
+          {
+            "id": "055d7cb8802bd6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/BASE/To Absorb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0457af89473b3c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/BASE/To Absorb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec31232634272dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/BIASES/Biases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f75cc881ed05e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/BASE/Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d96b8de6329a47c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/BASE/To Absorb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03fe5ed98dcc4067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2637d4a63fc23f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B/BIOLOGY/Neural Spread/Neural Cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4622188617e0e591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/BASE/To Absorb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "34a243f1edc20572",
+        "type": "tabs",
+        "dimension": 49.49494949494949,
+        "children": [
+          {
+            "id": "a46e350d53dc39fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "B/BIOLOGY/Neural Spread/Neural Cell.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121407,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4392cded21e8a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "14cee3c75611f0e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025d2dae695e375b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6554a5d4d4aa32ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "active",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "633f84af9f0f331d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4247bfe0d2ed8b22",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7d5da8ad47a536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1628d9281b527a0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B/BIOLOGY/Neural Spread/Neural Cell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b0695772585df89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B/BIOLOGY/Neural Spread/Neural Cell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be528209eacf83c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a36cc49f1cf84e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B/BIOLOGY/Neural Spread/Neural Cell.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2637d4a63fc23f7",
+  "lastOpenFiles": [
+    "B/BIOLOGY/Neural Spread/Domains.md",
+    "B/BIOLOGY/Neural Spread/Neural Cell.md",
+    "B/BIOLOGY/Neural Spread/Neural Spread.md",
+    "B/BIOLOGY/Neural Spread/node.md",
+    "Evaluation/Biology_E.md",
+    "A/CONSTRAINTS/Engagement.md",
+    "A/BASE/To Express.md",
+    "Evaluation/Entropic_E.md",
+    "B/BIOLOGY/Resonance/Modes/Visual.md",
+    "B/BIOLOGY/Resonance/Tunnels.md",
+    "calibration.md",
+    "B/BIOLOGY/Resonance/Modes/Language.md",
+    "Evaluation",
+    "Untitled",
+    "Code/Updater/Functions/Functions.md",
+    "Code/Updater/UsedObjects/UsedObjects.md",
+    "Code/Checks/Checks.md",
+    "Code/DIsplay",
+    "Code/Untitled",
+    "Code/Code.md",
+    "Code/Updater/Updater.md",
+    "Code/Checks",
+    "Flags.md",
+    "Pointers.md",
+    "Handler.md",
+    "TempD/MostProminentCombos.md",
+    "The Start.md",
+    "Files.md",
+    "Format.md",
+    "modify.md",
+    "delete.md",
+    "Code/Identity",
+    "Code/Storage",
+    "Code/Updater",
+    "Code/Untitled/Untitled",
+    "Code/Updater/UsedObjects",
+    "Pasted image 20240421234852.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+The Attention span stimulation or reflection or expression, however slight, to keep the current process happening efficiently.

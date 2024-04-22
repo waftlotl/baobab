@@ -1,0 +1,1 @@
+Though the triune brain has been established as to not be the probable picture, the distinctions placed do us good in introducing the concept of hierarchy.

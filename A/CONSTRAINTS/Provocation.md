@@ -1,0 +1,1 @@
+Current emotion may drive certain fields to certain types of works and others to misery. Certain Distinctions are to be placed as observations of self are made.

@@ -1,0 +1,2 @@
+The files must have [[Flags]] and must contain additional information such as date and time of addition/ modification.
+It may be simpler to find a [[Format]] that saves all of this data as a part of the file rather than creating another file for the file itself, which may make it harder to work with later on

@@ -1,0 +1,1 @@
+With sufficient [[Reinforcement]] of a path, one [[node]] connecting to another [[node]] needn't require that the other [[node]] exist in its immediate vicinity (in a manner of speaking, quite possibly literally too). 

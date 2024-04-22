@@ -1,0 +1,1 @@
+It may either refer to an idea, an established pattern of neurons that present a concept in our heads or rather to the neuron itself, based on the context.   

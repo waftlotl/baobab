@@ -1,0 +1,1 @@
+Fundamentals are Turing machines, not able to define their output in the future, but yield beautiful results along the way. It may be helpful to setup the necessary fundamentals to consider while approaching a subject and speculating on its origin, to derive correlation to fundamentals of other subjects.

@@ -1,0 +1,1 @@
+Disconnected knowledge, severed pieces of useful information, Wild Card info to aid analogies as specified under absorption.

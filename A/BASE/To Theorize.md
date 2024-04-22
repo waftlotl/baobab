@@ -1,0 +1,1 @@
+Theories may, in essence, Simplify, Generalize, Understand, Hypothesize regarding new or existing information, or on a new set of axioms, contemporary or constant, to fulfil the rest of the axioms

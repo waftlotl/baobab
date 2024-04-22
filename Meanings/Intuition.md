@@ -1,0 +1,1 @@
+Intuition must fuel the spontaneous, make the necessary easily understandable, but must not come with biases which hinder theorizing on new axioms.

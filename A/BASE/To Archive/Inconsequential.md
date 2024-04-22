@@ -1,0 +1,1 @@
+All such knowledge, whose understanding requires spontaneity (i.e. observation) or are substitutes for existing variables.
