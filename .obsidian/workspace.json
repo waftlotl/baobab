@@ -6,7 +6,6 @@
       {
         "id": "996ca5a8101c3a83",
         "type": "tabs",
-        "dimension": 50.50505050505051,
         "children": [
           {
             "id": "055d7cb8802bd6fc",
@@ -90,105 +89,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "34a243f1edc20572",
-        "type": "tabs",
-        "dimension": 49.49494949494949,
-        "children": [
-          {
-            "id": "a46e350d53dc39fa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Basics/Biology/Resonance/Modes/Taste.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Basics/Base  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14564155
-                      }
-                    },
-                    {
-                      "query": "path:Basics/CRAVe  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "path:Basics/Biology  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 12910484
-                      }
-                    },
-                    {
-                      "query": "path:\"Complements/Evaluation and Optimizations\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 10496782
-                      }
-                    },
-                    {
-                      "query": "path:Complements/Constraints  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3054545
-                      }
-                    },
-                    {
-                      "query": "path:Complements/Filter ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14590523
-                      }
-                    },
-                    {
-                      "query": "path:Complements/Selection  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13932530
-                      }
-                    },
-                    {
-                      "query": "path:Complements/Biases  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 12214502
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1.8,
-                  "nodeSizeMultiplier": 0.967708333333333,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.416666666666667,
-                  "repelStrength": 12.5,
-                  "linkStrength": 0.630208333333333,
-                  "linkDistance": 490,
-                  "scale": 0.25883865621817054,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -315,8 +215,127 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a46e350d53dc39fa",
+  "floating": {
+    "id": "1bb21cb1f4a9e870",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d5ea5b56e966b005",
+        "type": "window",
+        "children": [
+          {
+            "id": "acbb56a9dab7162e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a46e350d53dc39fa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Basics/Biology/Resonance/Modes/Taste.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:Basics/Base  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14564155
+                          }
+                        },
+                        {
+                          "query": "path:Basics/CRAVe  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:Basics/Biology  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 12910484
+                          }
+                        },
+                        {
+                          "query": "path:\"Complements/Evaluation and Optimizations\"  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 10496782
+                          }
+                        },
+                        {
+                          "query": "path:Complements/Constraints  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 3054545
+                          }
+                        },
+                        {
+                          "query": "path:Complements/Filter ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14590523
+                          }
+                        },
+                        {
+                          "query": "path:Complements/Selection  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13932530
+                          }
+                        },
+                        {
+                          "query": "path:Complements/Biases  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 12214502
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -1.8,
+                      "nodeSizeMultiplier": 1.19739583333333,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.447916666666667,
+                      "repelStrength": 12.5,
+                      "linkStrength": 0.630208333333333,
+                      "linkDistance": 490,
+                      "scale": 0.36288736930122284,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 561,
+        "y": 21,
+        "width": 797,
+        "height": 1038,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0457af89473b3c50",
   "lastOpenFiles": [
+    "PercievedMeanings/evaluation.md",
+    "PercievedMeanings/optimization.md",
     "PercievedMeanings/Specific.md",
     "Complements/Biases/Biases.md",
     "README.md",
@@ -341,8 +360,6 @@
     "Complements/Evaluation and Optimizations/Biology_E/Skeleton.md",
     "Complements/Evaluation and Optimizations/Entropic_E.md",
     "methods/substitutions.md",
-    "methods/catalysis.md",
-    "methods/calibration.md",
     "Complements/Evaluation and Optimizations/Biology_E",
     "Complements/Filter/Rules",
     "images/Pasted image 20240421234852.png",
